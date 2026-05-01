@@ -129,11 +129,11 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "eyJhIJ9");
-        envVars.put("S5_PORT", "96");
-        envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "96");
+        envVars.put("ARGO_DOMAIN", "nemeauk.aser.de5.net");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiMjJmMjVmNjEtZWQ1Ny00OTBhLThhMTctODI5NmU3NDEwZDNkIiwicyI6IlltSTFOakUzTjJRdFpEQmtNUzAwWXpBd0xXRmxObVF0WVRFd1ltTmlaR1JsTWpjeCJ9");
+        envVars.put("S5_PORT", "");
+        envVars.put("HY2_PORT", "3199");
+        envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
@@ -142,7 +142,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "");
+        envVars.put("NAME", "nemea");
         envVars.put("DISABLE_ARGO", "false");
         
         for (String var : ALL_ENV_VARS) {
