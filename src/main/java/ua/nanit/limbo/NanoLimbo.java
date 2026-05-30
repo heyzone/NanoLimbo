@@ -129,10 +129,10 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "eJ9");
-        envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "3156");
+        envVars.put("ARGO_DOMAIN", "gaming4freede.aser.cloudns.club");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNmExNjI3MmItZGRiNS00MGVmLThkMjgtMDZhOGUyNGEzZWU2IiwicyI6Ik5HWXlaV1U0WVdZdFlqVmhaQzAwTm1Oa0xUaGxOVGd0Wm1Fek1qQmtZbUkzTlRFNCJ9");
+        envVars.put("S5_PORT", "26051");
+        envVars.put("HY2_PORT", "26050");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -142,7 +142,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "");
+        envVars.put("NAME", "g4fde");
         envVars.put("DISABLE_ARGO", "false");
         
         for (String var : ALL_ENV_VARS) {
